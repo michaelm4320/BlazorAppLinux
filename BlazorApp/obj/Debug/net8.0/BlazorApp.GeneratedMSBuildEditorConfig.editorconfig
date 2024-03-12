@@ -9,47 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorApp
 build_property.RootNamespace = BlazorApp
-build_property.ProjectDir = /home/michael/repos/BlazorApp/
+build_property.ProjectDir = /home/michael/repos/BlazorApp/BlazorApp/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/michael/repos/BlazorApp
+build_property.MSBuildProjectDirectory = /home/michael/repos/BlazorApp/BlazorApp
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/michael/repos/BlazorApp/Components/App.razor]
+[/home/michael/repos/BlazorApp/BlazorApp/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/michael/repos/BlazorApp/Components/Pages/Counter.razor]
+[/home/michael/repos/BlazorApp/BlazorApp/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/michael/repos/BlazorApp/Components/Pages/Error.razor]
+[/home/michael/repos/BlazorApp/BlazorApp/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/michael/repos/BlazorApp/Components/Pages/Home.razor]
+[/home/michael/repos/BlazorApp/BlazorApp/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/michael/repos/BlazorApp/Components/Pages/Weather.razor]
+[/home/michael/repos/BlazorApp/BlazorApp/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9XZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/michael/repos/BlazorApp/Components/Routes.razor]
+[/home/michael/repos/BlazorApp/BlazorApp/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/michael/repos/BlazorApp/Components/_Imports.razor]
+[/home/michael/repos/BlazorApp/BlazorApp/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/michael/repos/BlazorApp/Components/Layout/MainLayout.razor]
+[/home/michael/repos/BlazorApp/BlazorApp/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-fekawvbbds
 
-[/home/michael/repos/BlazorApp/Components/Layout/NavMenu.razor]
+[/home/michael/repos/BlazorApp/BlazorApp/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-zswk0q6kaa

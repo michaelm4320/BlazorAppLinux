@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "R6In4/a0exNnIyMNcfBxLJW8l3CoG4eLBNpsIfPIOMo=",
+  "Hash": "Wax/uDX+GyMiWKpQmop43WN3mHUHJ0uzhVIDNTfpzI0=",
   "Source": "BlazorApp",
   "BasePath": "_content/BlazorApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorApp/wwwroot",
       "Source": "BlazorApp",
-      "ContentRoot": "/home/michael/repos/BlazorApp/wwwroot/",
+      "ContentRoot": "/home/michael/repos/BlazorApp/BlazorApp/wwwroot/",
       "BasePath": "_content/BlazorApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/michael/repos/BlazorApp/obj/Debug/net8.0/scopedcss/bundle/BlazorApp.styles.css",
+      "Identity": "/home/michael/repos/BlazorApp/BlazorApp/obj/Debug/net8.0/scopedcss/bundle/BlazorApp.styles.css",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "/home/michael/repos/BlazorApp/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/home/michael/repos/BlazorApp/BlazorApp/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "BlazorApp.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/michael/repos/BlazorApp/obj/Debug/net8.0/scopedcss/bundle/BlazorApp.styles.css"
+      "OriginalItemSpec": "/home/michael/repos/BlazorApp/BlazorApp/obj/Debug/net8.0/scopedcss/bundle/BlazorApp.styles.css"
     },
     {
-      "Identity": "/home/michael/repos/BlazorApp/obj/Debug/net8.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css",
+      "Identity": "/home/michael/repos/BlazorApp/BlazorApp/obj/Debug/net8.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "/home/michael/repos/BlazorApp/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/home/michael/repos/BlazorApp/BlazorApp/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "BlazorApp.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/michael/repos/BlazorApp/obj/Debug/net8.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css"
+      "OriginalItemSpec": "/home/michael/repos/BlazorApp/BlazorApp/obj/Debug/net8.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css"
     },
     {
-      "Identity": "/home/michael/repos/BlazorApp/wwwroot/app.css",
+      "Identity": "/home/michael/repos/BlazorApp/BlazorApp/wwwroot/app.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/michael/repos/BlazorApp/wwwroot/",
+      "ContentRoot": "/home/michael/repos/BlazorApp/BlazorApp/wwwroot/",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/app.css"
     },
     {
-      "Identity": "/home/michael/repos/BlazorApp/wwwroot/bootstrap/bootstrap.min.css",
+      "Identity": "/home/michael/repos/BlazorApp/BlazorApp/wwwroot/bootstrap/bootstrap.min.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/michael/repos/BlazorApp/wwwroot/",
+      "ContentRoot": "/home/michael/repos/BlazorApp/BlazorApp/wwwroot/",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/home/michael/repos/BlazorApp/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Identity": "/home/michael/repos/BlazorApp/BlazorApp/wwwroot/bootstrap/bootstrap.min.css.map",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/michael/repos/BlazorApp/wwwroot/",
+      "ContentRoot": "/home/michael/repos/BlazorApp/BlazorApp/wwwroot/",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/michael/repos/BlazorApp/wwwroot/favicon.png",
+      "Identity": "/home/michael/repos/BlazorApp/BlazorApp/wwwroot/favicon.png",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/michael/repos/BlazorApp/wwwroot/",
+      "ContentRoot": "/home/michael/repos/BlazorApp/BlazorApp/wwwroot/",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
