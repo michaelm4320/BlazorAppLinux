@@ -1,6 +1,6 @@
-@BlazorApp_HostAddress = http://localhost:5184
+@ContosoPizzaWebAPI_HostAddress = http://localhost:5184
 
-GET {{BlazorApp_HostAddress}}/weatherforecast/
+GET {{ContosoPizzaWebAPI_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###

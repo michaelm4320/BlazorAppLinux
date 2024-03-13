@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rqeqZj677gWbQU0j6sAT89XDGUoFYXWWiNTQRGraXK7xi3hFZBMV8xNIXSyyW1U0YQP5yxiAAV6Mw/yCPhUaMg==",
+  "dgSpecHash": "JBROZ7B2PnNPI3c0jSojuHheVxaFW1MeFnEwCmv1G96NKYoCU2vsLKdrwDCIWG6V2+lvchKCHGtYSGYUXXBVPw==",
   "success": true,
   "projectFilePath": "/home/michael/repos/BlazorApp/ContosoPizzaWebAPI/ContosoPizzaWebAPI.csproj",
   "expectedPackageFiles": [
