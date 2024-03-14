@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContosoPizzaWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+417626514e339021f5110c27870e485f2aae9b2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c30e24a3d4f35261b9724c3faccdc8629a1bd109")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContosoPizzaWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContosoPizzaWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
