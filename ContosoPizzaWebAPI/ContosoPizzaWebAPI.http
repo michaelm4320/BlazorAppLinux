@@ -4,3 +4,33 @@ GET {{ContosoPizzaWebAPI_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+GET {{ContosoPizzaWebAPI_HostAddress}}/pizza/
+Accept: application/json
+
+###
+
+POST {{ContosoPizzaWebAPI_HostAddress}}/pizza/
+Content-Type: application/json
+
+{
+    "name": "Hawaii",
+    "isGlutenFree": false
+}
+
+###
+
+PUT {{ContosoPizzaWebAPI_HostAddress}}/pizza/3
+Content-Type: application/json
+
+{
+    "id": 3,
+    "name": "Hawaiian",
+    "isGlutenFree": false
+}
+
+###
+
+DELETE {{ContosoPizzaWebAPI_HostAddress}}/pizza/3
+
+###
